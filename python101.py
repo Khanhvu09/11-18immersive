@@ -5,7 +5,7 @@ print """
     A murder happened.
 """
 
-print 'Hello, world"\n"'
+print 'Hello, world'
 
 # Variables
 # - strings, letters, numbers, or any other stuff
@@ -31,3 +31,15 @@ print 'Hello, world"\n"'
 # - Objects - super dictionaries 
 
 # Primitive Data types = string, number, boolean 
+month = "November";
+print type(month)
+date = 13
+print type(date)
+dateAsFloat = 13.0
+print type(dateAsFloat)
+aBool = True
+print type(aBool)
+aList = []
+print type(aList)
+aDictionary = {}
+print type(aDictionary)
