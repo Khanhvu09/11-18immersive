@@ -1,0 +1,10 @@
+    1  /.zshrc
+    2  cd ~/Development
+    3  ls
+    4  cd 11-12-18immersive
+    5  pwd
+    6  ls
+    7  cd unit1
+    8  ls
+    9  clear
+   10  git init
